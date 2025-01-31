@@ -1,0 +1,6 @@
+C:\Users\henry\source\repos\AppWebHotel\Capá Entidad\bin\Debug\Capá Entidad.dll
+C:\Users\henry\source\repos\AppWebHotel\Capá Entidad\bin\Debug\Capá Entidad.pdb
+C:\Users\henry\source\repos\AppWebHotel\Capá Entidad\obj\Debug\Capá Entidad.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\AppWebHotel\Capá Entidad\obj\Debug\Capá Entidad.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\AppWebHotel\Capá Entidad\obj\Debug\Capá Entidad.dll
+C:\Users\henry\source\repos\AppWebHotel\Capá Entidad\obj\Debug\Capá Entidad.pdb

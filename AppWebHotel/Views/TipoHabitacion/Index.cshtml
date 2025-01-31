@@ -1,0 +1,62 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Tipo Habitacion</h2>
+<fieldset class="container mb-4">
+    <legend>Datos de tipo Habitacion</legend>
+    <form id="frmTipoHabitacion" method="post">
+        <div class="row">
+            <div class=" mb-3 col-md-4">
+                <label>Id Tipo Habitacion</label>
+                <input type="text" class="form-control"
+                       name="id" value"0" readonly />
+            </div>
+            <div class=" mb-3 col-md-8">
+                <label>Nombre Habitacion</label>
+                <input type="text" class="form-control"
+                       name="nombre" />
+            </div>
+        </div>
+       
+        <div class="row">
+            <div class=" mb-3 col-md-6">
+                <label>Descripcion</label>
+                <input type="text" class="form-control"
+                       name="descripcion" />
+            </div>
+        </div>
+
+    </form>
+    <button class="btn btn-primary" onclick="GuardarDatos()">Aceptar</button>
+    <button class="btn btn-danger" onclick="Limpiar()">Limpiar</button>
+    <button class="btn btn-warning">Actualizar</button>
+
+
+
+</fieldset>
+<fieldset class="container mb-4">
+    <legend>Lista de registros guardados</legend>
+    <div class="input-group mb-3">
+        <input type="text" class="form-control"
+               id="txtnombretipohabitacion"
+               placeholder="Ingrese nombre tipo habitacion" />
+        <button class="btn btn-primary"
+                onclick="Buscar()"
+                type="button" id="btnnombretipohabitacion">
+            Buscar
+        </button>
+    </div>
+
+
+    <div id="divtabla">
+
+    </div>
+</fieldset>
+
+    <script src="~/Scripts/sweetalert.js"></script>
+    <script src="~/Scripts/generic.js"></script>
+    <script src="~/Scripts/TipoHabitacion.js"></script>
+
+
+

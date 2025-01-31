@@ -1,0 +1,11 @@
+C:\Users\henry\source\repos\AppWebHotel\Capa de Negocio\bin\Debug\Capa de Negocio.dll
+C:\Users\henry\source\repos\AppWebHotel\Capa de Negocio\bin\Debug\Capa de Negocio.pdb
+C:\Users\henry\source\repos\AppWebHotel\Capa de Negocio\bin\Debug\Capa Datos.dll
+C:\Users\henry\source\repos\AppWebHotel\Capa de Negocio\bin\Debug\Capá Entidad.dll
+C:\Users\henry\source\repos\AppWebHotel\Capa de Negocio\bin\Debug\Capa Datos.pdb
+C:\Users\henry\source\repos\AppWebHotel\Capa de Negocio\bin\Debug\Capá Entidad.pdb
+C:\Users\henry\source\repos\AppWebHotel\Capa de Negocio\obj\Debug\Capa de Negocio.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\AppWebHotel\Capa de Negocio\obj\Debug\Capa de Negocio.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\AppWebHotel\Capa de Negocio\obj\Debug\Capa de .49AFAB1A.Up2Date
+C:\Users\henry\source\repos\AppWebHotel\Capa de Negocio\obj\Debug\Capa de Negocio.dll
+C:\Users\henry\source\repos\AppWebHotel\Capa de Negocio\obj\Debug\Capa de Negocio.pdb

@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\henry\\source\\repos\\AppWebHotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA44CE0-3114-4FA4-B52A-4E46F948E6CB}|AppWebHotel\\AppWebHotel.csproj|c:\\users\\henry\\source\\repos\\appwebhotel\\appwebhotel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DA44CE0-3114-4FA4-B52A-4E46F948E6CB}|AppWebHotel\\AppWebHotel.csproj|solutionrelative:appwebhotel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA44CE0-3114-4FA4-B52A-4E46F948E6CB}|AppWebHotel\\AppWebHotel.csproj|C:\\Users\\henry\\source\\repos\\AppWebHotel\\appwebhotel\\scripts\\tipohabitacion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{8DA44CE0-3114-4FA4-B52A-4E46F948E6CB}|AppWebHotel\\AppWebHotel.csproj|solutionrelative:appwebhotel\\scripts\\tipohabitacion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA44CE0-3114-4FA4-B52A-4E46F948E6CB}|AppWebHotel\\AppWebHotel.csproj|c:\\users\\henry\\source\\repos\\appwebhotel\\appwebhotel\\views\\tipohabitacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DA44CE0-3114-4FA4-B52A-4E46F948E6CB}|AppWebHotel\\AppWebHotel.csproj|solutionrelative:appwebhotel\\views\\tipohabitacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA44CE0-3114-4FA4-B52A-4E46F948E6CB}|AppWebHotel\\AppWebHotel.csproj|C:\\Users\\henry\\source\\repos\\AppWebHotel\\appwebhotel\\scripts\\generic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8DA44CE0-3114-4FA4-B52A-4E46F948E6CB}|AppWebHotel\\AppWebHotel.csproj|solutionrelative:appwebhotel\\scripts\\generic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA44CE0-3114-4FA4-B52A-4E46F948E6CB}|AppWebHotel\\AppWebHotel.csproj|C:\\Users\\henry\\source\\repos\\AppWebHotel\\appwebhotel\\scripts\\cama.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8DA44CE0-3114-4FA4-B52A-4E46F948E6CB}|AppWebHotel\\AppWebHotel.csproj|solutionrelative:appwebhotel\\scripts\\cama.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA44CE0-3114-4FA4-B52A-4E46F948E6CB}|AppWebHotel\\AppWebHotel.csproj|C:\\Users\\henry\\source\\repos\\AppWebHotel\\appwebhotel\\scripts\\producto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8DA44CE0-3114-4FA4-B52A-4E46F948E6CB}|AppWebHotel\\AppWebHotel.csproj|solutionrelative:appwebhotel\\scripts\\producto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\henry\\source\\repos\\AppWebHotel\\AppWebHotel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppWebHotel\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\henry\\source\\repos\\AppWebHotel\\AppWebHotel\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "AppWebHotel\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T06:51:55.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoHabitacion.js",
+              "DocumentMoniker": "C:\\Users\\henry\\source\\repos\\AppWebHotel\\AppWebHotel\\Scripts\\TipoHabitacion.js",
+              "RelativeDocumentMoniker": "AppWebHotel\\Scripts\\TipoHabitacion.js",
+              "ToolTip": "C:\\Users\\henry\\source\\repos\\AppWebHotel\\AppWebHotel\\Scripts\\TipoHabitacion.js",
+              "RelativeToolTip": "AppWebHotel\\Scripts\\TipoHabitacion.js",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-30T19:28:09.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\henry\\source\\repos\\AppWebHotel\\AppWebHotel\\Views\\TipoHabitacion\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppWebHotel\\Views\\TipoHabitacion\\Index.cshtml",
+              "ToolTip": "C:\\Users\\henry\\source\\repos\\AppWebHotel\\AppWebHotel\\Views\\TipoHabitacion\\Index.cshtml",
+              "RelativeToolTip": "AppWebHotel\\Views\\TipoHabitacion\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T18:13:17.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "generic.js",
+              "DocumentMoniker": "C:\\Users\\henry\\source\\repos\\AppWebHotel\\AppWebHotel\\Scripts\\generic.js",
+              "RelativeDocumentMoniker": "AppWebHotel\\Scripts\\generic.js",
+              "ToolTip": "C:\\Users\\henry\\source\\repos\\AppWebHotel\\AppWebHotel\\Scripts\\generic.js",
+              "RelativeToolTip": "AppWebHotel\\Scripts\\generic.js",
+              "ViewState": "AgIAACMBAAAAAAAAAAAqwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-29T19:39:38.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.js",
+              "DocumentMoniker": "C:\\Users\\henry\\source\\repos\\AppWebHotel\\AppWebHotel\\Scripts\\Producto.js",
+              "RelativeDocumentMoniker": "AppWebHotel\\Scripts\\Producto.js",
+              "ToolTip": "C:\\Users\\henry\\source\\repos\\AppWebHotel\\AppWebHotel\\Scripts\\Producto.js",
+              "RelativeToolTip": "AppWebHotel\\Scripts\\Producto.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-29T17:54:51.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cama.js",
+              "DocumentMoniker": "C:\\Users\\henry\\source\\repos\\AppWebHotel\\AppWebHotel\\Scripts\\Cama.js",
+              "RelativeDocumentMoniker": "AppWebHotel\\Scripts\\Cama.js",
+              "ToolTip": "C:\\Users\\henry\\source\\repos\\AppWebHotel\\AppWebHotel\\Scripts\\Cama.js",
+              "RelativeToolTip": "AppWebHotel\\Scripts\\Cama.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-29T17:46:19.305Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

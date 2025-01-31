@@ -1,0 +1,9 @@
+C:\Users\henry\source\repos\AppWebHotel\Capa Datos\bin\Debug\Capa Datos.dll
+C:\Users\henry\source\repos\AppWebHotel\Capa Datos\bin\Debug\Capa Datos.pdb
+C:\Users\henry\source\repos\AppWebHotel\Capa Datos\bin\Debug\Capá Entidad.dll
+C:\Users\henry\source\repos\AppWebHotel\Capa Datos\bin\Debug\Capá Entidad.pdb
+C:\Users\henry\source\repos\AppWebHotel\Capa Datos\obj\Debug\Capa Datos.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\AppWebHotel\Capa Datos\obj\Debug\Capa Datos.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\AppWebHotel\Capa Datos\obj\Debug\Capa Datos.csproj.Up2Date
+C:\Users\henry\source\repos\AppWebHotel\Capa Datos\obj\Debug\Capa Datos.dll
+C:\Users\henry\source\repos\AppWebHotel\Capa Datos\obj\Debug\Capa Datos.pdb

@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Productos</h2>
+<div class="input-group mb-3">
+    <input type="text" class="form-control"
+           id="txtnombreproducto"
+           onkeyup="Buscar()"
+           placeholder="Ingrese nombre de producto" />
+   
+</div>
+<div id="divtabla">
+
+</div>
+
+<script src="~/Scripts/generic.js"></script>
+<script src="~/Scripts/Producto.js"></script>
